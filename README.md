@@ -64,5 +64,5 @@ The script expects the following command line arguments:
 2023-07-17 10:00:30 - file_to_delete.txt deleted from replica during synchronization.
 ```
 ## Notes
-- ensure that the source and replica folders exist and have the necessary permissions before running the script.
+- Ensure that the source and replica folders exist and have the necessary permissions before running the script.
 - The log file path should be a valid directory where the script has write permissions.
